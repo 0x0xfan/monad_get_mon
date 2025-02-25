@@ -1,2 +1,2 @@
 # monad_get_mon
-monad,faucet
+monad,faucet脚本自动领水，单线程版
